@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/subbNine/buildas-test.git
    cd python-crud
 2. docker-compose up --build
 3. Access the app at http://localhost:8000.
