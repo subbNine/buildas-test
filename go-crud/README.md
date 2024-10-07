@@ -2,7 +2,9 @@
 
 ## Setup
 
-1. Clone the repository.
+1.  ```bash
+   git clone https://github.com/subbNine/buildas-test.git
+   cd go-crud
 2. Run `docker-compose up --build` to start the application.
 
 The app will be running at `http://localhost:8080`.
